@@ -3,6 +3,7 @@ import styled from 'styled-components';
 export const Container = styled.div`
   border: 2px solid black;
   padding: 25px;
+  margin: 0 auto;
   width: 350px;
 `;
 

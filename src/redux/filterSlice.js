@@ -1,9 +1,3 @@
-// const filteredContacts = () => {
-//   return contacts.filter(({ name }) =>
-//     name.toLocaleLowerCase().includes(filter.toLocaleLowerCase())
-//   );
-// };
-
 import { createSlice } from '@reduxjs/toolkit';
 
 const filterInitialState = '';
